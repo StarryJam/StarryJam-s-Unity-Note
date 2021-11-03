@@ -155,7 +155,7 @@ StartCoroutine(routine2);
 | :--: | :--: | :--: | :--: |
 |  √   |  √   |  ×   |  √   |
 
-值得注意的是上面c的用法不但无法打开多个协程，还会导致一个协程在一帧循环里被执行多次：
+值得注意的是上面c1的用法不但无法打开多个协程，还会导致一个协程在一帧循环里被执行多次：
 
 ![](https://raw.githubusercontent.com/StarryJam/PicDock/main/imgavatar.png)
 
