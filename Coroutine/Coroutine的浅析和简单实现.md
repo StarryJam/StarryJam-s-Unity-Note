@@ -301,3 +301,7 @@ public class StarryJamCoroutineManager : MonoBehaviour
 
 ​		实际观察等待的时间好像有一点不稳定，但是总体实现了我们的协程功能，其他的细节日后可以优化~
 
+​		
+
+​		Demo项目在github同一层目录下有需要可以下载下来配合文章内容消化
+
